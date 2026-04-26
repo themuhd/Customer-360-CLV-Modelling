@@ -127,9 +127,13 @@ Deep learning models (DNN)
 Real-time CLV prediction
 Incorporating unstructured data (reviews, sentiment)
 
+
+
 🛠️ Tech Stack
 Python (Pandas, NumPy, Scikit-learn)
 XGBoost
 Lifetimes library
 Jupyter Notebook
 Azure Databricks / Google Colab
+
+
